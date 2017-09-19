@@ -9,7 +9,11 @@
             <publicationStmt>
                 <ab>Work in progress.</ab>
             </publicationStmt>
-            <sourceDesc></sourceDesc>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier></msIdentifier>
+                </msDesc>
+            </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
