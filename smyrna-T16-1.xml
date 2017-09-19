@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Work in progress.</ab>
+            </publicationStmt>
+            <sourceDesc></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <ab>Χαρίας ὁ κα[ὶ] Λ̣ου-
+            κος εὐξάμενος
+            περὶ τῶν ὀφθα̣λ̣μῶν
+            τοὺς λύχνους ἀπέδωκε
+            ἔτους σι </ab>
+                </ab>
+            </div>
+            <div type="translation">
+                
+            </div>
+            <div type="bibliography">
+                
+            </div>
+        </body>
+    </text>
+</TEI>
