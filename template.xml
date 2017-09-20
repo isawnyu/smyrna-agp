@@ -11,7 +11,13 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier></msIdentifier>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica in the Agora of Ancient Smyrna</geogName>
+                        <idno></idno>  <!-- we need to establish an identifier scheme: based on Bagnall 2006? -->
+                        <msName></msName>  <!-- use Bagnall's title, if present; otherwise omit -->
+                    </msIdentifier>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
