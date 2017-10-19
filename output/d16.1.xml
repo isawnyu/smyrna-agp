@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -10,7 +11,6 @@
                 <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
                     ready for publication.</ab>
             </publicationStmt>
-            
             <sourceDesc>
                 <bibl>
                     <author>R.S. Bagnall</author>, 
@@ -22,10 +22,13 @@
                     (<pubPlace>New York</pubPlace>
                     <date>2016</date>), 
                     <biblScope unit="item">D16.1.</biblScope>.</bibl>
-               
                 <msDesc>
                     <msIdentifier>
-                        <idno></idno>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d16-1</idno>
+                        <msName>Smyrna Agora Basilica D16.1.</msName>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
