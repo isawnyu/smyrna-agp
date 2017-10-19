@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T9.1.: acclamation</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T9.1.</biblScope>.</bibl>
+               
+                <msDesc>
+                    <msIdentifier>
+                        <idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>In the center of the panel, starting 30 cm from the left edge; an area ca. 98 cm wide × 12 cm high. letters 11 cm high, large rounded majuscules.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>Ἀσίας πρώτοις
+                    <lb/>Ἐφεσίοις</ab>
+            </div>
+            <div type="translation">
+                <ab>“to the first of asia!” “to the ephesians!”</ab>
+            </div>
+            <div type="commentary">
+                <ab>a second hand has added, inserting small letters similar in style into and after those of the first hand (see photo),</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

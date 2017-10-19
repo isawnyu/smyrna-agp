@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T8.1.: orders</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T8.1.</biblScope>.</bibl>
+               
+                <msDesc>
+                    <msIdentifier>
+                        <idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>four lines, located 58 cm from the left edge and 25 cm from the bottom of the window cutting. approximately 92 cm wide × 29 cm high. largely detached majuscule letters 5 cm high (pos- sibly the same hand as T9.5). Below line 4 there are signs of a new coat of plaster, covering any additional lines originally written (cf. also on T8.2).</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>Ὀνήσιμε, μὴ κλίδισ̣ο̣ν καὶ μία̣ι̣ν̣ε τὴν ὑπὸ θεῶν ἐκτημέν̣η̣ν Βαιτην
+                    <lb/>ἐὰν δ̣ὲ̣ καὶ καταπείνῃ
+                    <lb/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>
+                    <lb break="no"/>-
+                    <lb/>. . .”</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>“onesimos, do not lock up and pollute the Baite possessed by the gods; but if he also consumes</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

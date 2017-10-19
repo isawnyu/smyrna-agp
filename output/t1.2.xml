@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T1.2.: name</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T1.2.</biblScope>.</bibl>
+               
+                <msDesc>
+                    <msIdentifier>
+                        <idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>In the main bay, at upper right, above the head of a man in red (D1.2). detached but cursive style letters 2.5–3 cm high except for rho, 5 cm. Below it is an ivy leaf and to the left of the leaf traces of 5 lines, each of a few letters, in a large, rough hand, not read.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>Π̣ αρθένα Ζ̣μυρνιαία . .</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>There are also some faint traces on the bevel of the right pier, which have not been read.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

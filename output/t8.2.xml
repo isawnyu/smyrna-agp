@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T8.2.: riddle</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T8.2.</biblScope>.</bibl>
+               
+                <msDesc>
+                    <msIdentifier>
+                        <idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>one line, located to the left of line 4 of T8.1. 19 cm wide, with cursive letters 2.3 cm high. above it is a line of 8 small circles 4 cm high, with minuscule letters in them, 28 cm wide × 6.5 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>ζήτημα</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>This is the beginning of a riddle, of which whatever else was written is now lost under the new layer of plaster applied just below it (cf. T8.1). It is possible also that nothing more was written. cf. T28.1. ἀπόλωλε is a possible interpretation, but the apparent iota in the last circle is puzzling. as it stands at the extreme left of the available space inside the circle, perhaps nu was intended or written but now mostly lost. we do not know why the letters are written inside circles. on the bevel of the right pier are some scattered letters.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>
