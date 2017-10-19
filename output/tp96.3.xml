@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="/Users/paregorios/Documents/files/E/epidoc/code-svn/trunk/schema/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP96.3.: label?</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">TP96.3.</biblScope>.</bibl>
+               
+                <msDesc>
+                    <msIdentifier>
+                        <idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>on the east face, ca. 115 cm above ground level. area ca. 25 × 7 cm. Incised letters 5 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>εἰ γνώμο
+                    <lb break="no"/>νος τόπος</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>why εἰ stands at the start, we do not know. “The place of the gnomon”: but in what sense of gnomon, is also not clear.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>
