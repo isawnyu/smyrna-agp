@@ -29,3 +29,4 @@ Temporary Items
 # OxygenXML project files
 *.xpr
 fodder
+output/*.txt
