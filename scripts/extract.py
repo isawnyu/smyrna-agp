@@ -141,7 +141,7 @@ def parse_graffiti(soup):
             while '--' in id_slug:
                 id_slug = id_slug.replace('--', '-')
             while id_slug[-1] == '-':
-                id_slug = id_slug[:-2]
+                id_slug = id_slug[0:-1]
             try:
                 description = g['description']
             except KeyError:
