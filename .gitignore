@@ -28,5 +28,7 @@ Temporary Items
 
 # OxygenXML project files
 *.xpr
-fodder
+
+# other project-specific files
+fodder/*.html
 output/*.txt
