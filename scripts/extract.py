@@ -14,6 +14,7 @@ from polyglot.detect import Detector
 from polyglot.detect.base import UnknownLanguage
 import re
 import sys
+from textnorm import normalize_space
 
 RX_APP = re.compile('^\d.+')
 
@@ -135,6 +136,12 @@ def parse_graffiti(soup):
 
     for c_id, c in contexts.items():
         for g_id, g in c['graffiti'].items():
+            id_slug = normalize_space(g_id)
+            id_slug = id_slug.lower().replace(' ', '-').replace('.', '-')
+            while '--' in id_slug:
+                id_slug = id_slug.replace('--', '-')
+            while id_slug[-1] == '-':
+                id_slug = id_slug[:-2]
             try:
                 description = g['description']
             except KeyError:
@@ -188,6 +195,7 @@ def parse_graffiti(soup):
                 text_title='{}: {}'.format(
                     g_id, g['title']),
                 text_id=g_id,
+                text_id_slug=id_slug,
                 description=description,
                 text=text,
                 translation=translation,

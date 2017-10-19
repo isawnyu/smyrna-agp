@@ -11,7 +11,6 @@
                 <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
                     ready for publication.</ab>
             </publicationStmt>
-            
             <sourceDesc>
                 <bibl>
                     <author>R.S. Bagnall</author>, 
@@ -23,10 +22,13 @@
                     (<pubPlace>New York</pubPlace>
                     <date>2016</date>), 
                     <biblScope unit="item">{text_id}</biblScope>.</bibl>
-               
                 <msDesc>
                     <msIdentifier>
-                        <idno></idno>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-{text_id_slug}</idno>
+                        <msName>Smyrna Agora Basilica {text_id}</msName>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
