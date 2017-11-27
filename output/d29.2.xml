@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D29.2.: scene: venatio</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">D29.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d29-2</idno>
+                        <msName>Smyrna Agora Basilica D29.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>In the upper right quadrant of the bay, in black and red ink. dimensions overall, 32 cm wide × 30 cm high; of the gladiator, 19 cm wide × 21 cm high; of the feline, 29 cm wide × 12 cm high.
+                    <lb/>dipinto of a venatio scene, located in the upper right quadrant of the back wall of Bay 29. at the bottom of the scene, toward the right, is a venator. Though the drawing is quite cursive, it is possible to identify the figure of the venator, fully frontal and in a victorious stance. he holds in the right hand a venabulum decorated with a fishbone motif, possibly representing a palm branch placed on the spear after his victory. with the left hand he holds a small triangular shield. The head, without helmet, is surmounted by a wreath that sits on the venator’s temples. The facial features are very approximate: two round eyes, a large nose, and an oversized mouth, rendered in one long curved line indicating a large smile. The man is dressed in a short flowing tunica with geometric decorations on the front and with tight leg wrappings on his thighs. The tip of his spear touches the hind paw of a large feline placed directly above it. long, vertical red lines run along the whole length of the spear, indicating the blood gushing out of the wounded animal, possibly a lion. The animal is shown in profile, the head turned toward the left, but now almost completely lost due to the  poor preservation of the plaster. of the head, only the mane is still visible, rendered in long parallel lines covering the neck, continuing along the animal’s
+                    <lb/>back, and descending to the left foreleg. The body is extremely elongated and not very detailed. The tail is made of a single wavy line terminating in a small, upward tuft. The four legs are depicted as elongated inverted triangles terminating in small circles indicating the paws. The lion is mortally wounded: at its left flank a large spot of red ink indicates a wound from which blood, in long vertical lines, gushes out to cover the venator’s spear below.
+                    <lb/>This scene is probably to be considered as the outcome of the fight between the venator and the feline taking place to the left (see D29.13).</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

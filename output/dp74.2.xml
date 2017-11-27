@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP74.2.: gladiator</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">DP74.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-dp74-2</idno>
+                        <msName>Smyrna Agora Basilica DP74.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>on the west face of pier a74, in black ink. dimensions 40 cm wide × 39 cm high.
+                    <lb/>dipinto of the upper half of a human figure, seen frontally, located on the western face of pier a74. The image was later partially obliterated by a large dipinto of a ship, of which traces of a very tall ἀκροστόλιον are the only elements still extant. The figure, very crudely made, can be identified as a gladiator, possibly a thraex. recognizable is the tall helmet with the head of the griffon seen frontally, a crescent-shaped crest, and large brims. The rather thin arms are at the side of the body, of which only the upper part of the bust is visible. no weapon or shield is visible.
+                    <lb/>for a possible comparison of a gladiator with a similar helmet surmounted by a griffon from a gravestone found in smyrna, see petzl 1974: 293, no. 12.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

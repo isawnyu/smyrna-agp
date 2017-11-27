@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP74.1.: ship</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">DP74.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-dp74-1</idno>
+                        <msName>Smyrna Agora Basilica DP74.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>on the east face of pier a74, incised. dimensions as preserved: 42 cm wide × 59 cm high.
+                    <lb/>Graffito of a ship, located on the eastern face of pier a74. The graffito is damaged by two large lacunae in the plaster, so that both the upper portion of the ship’s sails and the prow have com- pletely vanished. The ship, a mid-sized commercial vessel sailing on port tack, is characterized by a flat keel and a pointed stern. from the stern project the very large and rectangular blades of the two πηδάλια. a long straight line running parallel to the hull suggests the presence of a deck. The central mast is disproportionately large and decorated with horizontal lines indicat- ing the rigging. crisscrossing motifs set on both sides of the mast indicate the sail. considering the different orientations in the two sets of motifs, the drawing is meant to show two separate sails connected to the same mast. due to a gap in the plaster, the yard and the upper portion of the sails are not preserved. no oars are visible.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

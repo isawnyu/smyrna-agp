@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T27.2.: record of healing</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T27.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t27-2</idno>
+                        <msName>Smyrna Agora Basilica T27.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Immediately to the right of T27.1, at 38 cm from the left side of the bay and 1.85 m above the ground level. stylish letters, detached but cursive in style, 4–6 cm high. at the right end of line 1 it is impossible to distinguish the letter strokes from the rigging of the ship drawing immedi- ately below (D27.1).</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>Ἡγεῖνος εἶπ̣[εν] τ̣ὸν̣ ὀφθαλμ[ὸν]
+                    <lb/>ἐν τάχει ἐθαραπεύ̣[θην]</ab>
+            </div>
+            <div type="translation">
+                <ab>“hyginos said, ‘My eye was quickly healed’.”</ab>
+            </div>
+            <div type="commentary">
+                <ab>Below T27.1 can be seen five lines of very faint writing and uncertain extent. These have not been transcribed.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

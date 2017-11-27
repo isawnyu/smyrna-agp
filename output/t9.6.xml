@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T9.6.: word square</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T9.6.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t9-6</idno>
+                        <msName>Smyrna Agora Basilica T9.6.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>at right edge of bay, to the right of the upper tabula ansata (T9.3). area 22 cm wide × 15 cm high. Block letters 3–4 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>[μῆ]λ[ον] ἡδ[ονή] λόγο̣ς̣ ὄνομα νή̣σας̣
+                    <lb/>̣  ̣  ̣
+                    <lb/>se
+                    <lb/>e   ̣  ̣  ̣  ̣
+                    <lb/>̣  ̣</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>for a parallel see T12.1, and see introduction, p. 52. nothing much remains of line 1, but the surface is badly preserved there. we take νήσας to be the aorist participle of νέω. on the right pier (a20), on the west side, facing the bay, at 23 cm from the left edge of the pier. area 25 cm wide × 32 cm high. old roman cursive letters 4–7 cm high. on the right pier (a20), on left bevel surface, at top. area 21 wide × 24 cm high. old roman cursive letters 4–7 cm high.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

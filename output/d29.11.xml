@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D29.11.: scene: gladiator and palm branches</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">D29.11.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d29-11</idno>
+                        <msName>Smyrna Agora Basilica D29.11.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>on the east face of pier a40, in black ink. dimensions 5.5 cm wide × 10 cm high. palmette at top, 10 cm wide × 17 cm high; palmette at bottom, 3 cm wide × 8 cm high.
+                    <lb/>dipinto located on the eastern face of pier a40, looking into Bay 29. It comprises one gladiator and two palm branches, all partially damaged by lacunae in the plaster. The branch at the top is characterized by a long vertical line, the branch’s rachis, drawn in a thick streak. from this central line depart, at both sides, two corresponding sets of thirteen diagonal lines, the leaflets, progressively shorter at the top where the tip of the branch is situated. two short horizontal lines, one at the top and one at the bottom, complete the design.
+                    <lb/>to the left of the branch is a very schematic depiction of a gladiator, of which only a visored helmet with a horizontal neck-guard and a large rectangular shield are visible. he can ten- tatively be identified as a provocator. at the bottom is a second palm branch composed of a central vertical line, from which departs a series of short diagonal lines (eight are still visible) alternately to the right and the left of the central axis. The palm branches are most certainly to be understood as complementing the image of the gladiator, who is thus to be considered as victorious.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

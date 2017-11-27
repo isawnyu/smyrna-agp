@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D9.1.: gladiator</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">D9.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d9-1</idno>
+                        <msName>Smyrna Agora Basilica D9.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>In the upper right quadrant of the bay, in black ink. dimensions 17 cm wide × 39 cm high.
+                    <lb/>dipinto of a human figure, possibly a gladiator, located in the upper right quadrant of the back wall of Bay 9. The depiction of this human figure is quite difficult to interpret, both for its sum- mary execution and for the fading black color. from the extant traces it seems possible to rec- ognize in the man a murmillo, shown in three-quarter and in the act of advancing toward the right, with his right leg partially raised and advanced. The identification is based on the large
+                    <lb/>size of his upper torso, the tight loincloth (subligaculum) revealing the contours of the buttocks, and the lines at his waist indicating a balteus. a helmet with a stylized element on top (a poorly rendered crest and fish?) protects his head, while at his left, partially covered by the body, is visible the outline of a long shield, possibly a scutum. The man’s left leg is visibly larger than the right one, and it is drawn in a thicker line, suggesting the presence of a greave, a customary accessory for a murmillo.
+                    <lb/>similar pose and attributes can be found in one graffito from the theater of aphrodisias (lang- ner 2001: no. 761, dated to late antiquity) and another one from the paedagogium of the domus tiberiana (solin and Itkonen-Kaila, eds. 1966: no. 97, p. 133).</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

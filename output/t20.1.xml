@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T20.1.: uncertain (christian?)</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T20.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t20-1</idno>
+                        <msName>Smyrna Agora Basilica T20.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>at ca. 1.56 m from the top of the bench and 30 cm from the left side. area ca. 30 cm wide × 18 cm high. Irregular detached majuscule letters of line 1 are 3–4 cm high; those of line 2, 4–6 cm high. not enough survives of line 3 to measure.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>ὁ δεδω̣κ̣[ὼς] τὸ πνεῦμ̣[α]
+                    <lb/>̣ [
+                    <lb/>ΝΑΕ σοι ΠΑ  ΛΙΚΕ .[
+                    <lb/>ΝΕΙΤΗ εισιν   ̣  ̣  [̣
+                    <lb/>ΜΕ  ΑΤΩ  [
+                    <lb/>̣ ΗΣΑΝ  [</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>“The one who gave the spirit . . .” 1–2. see introduction, p. 47. at 15 cm from the left side, its top 32 cm below the bottom of T20.1. area 40 cm wide × 32 cm high. clumsily made detached letters 4–6 cm high. It is not certain where the left edge of the inscription was. In line 1, perhaps ΠΑΛΛΙΚΕ.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP78.1.: ships</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">DP78.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-dp78-1</idno>
+                        <msName>Smyrna Agora Basilica DP78.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>on the west face of pier a78, incised. dimensions at top, 23 cm wide × 15 cm high (preserved); at bottom, 26 cm wide (preserved) × 33 cm high.
+                    <lb/>Graffito of two ships, located on the western face of pier a78. Both ships are incomplete, as the plaster has fallen off most of the pier’s surface. The ship at the top is very schematic, so that it is impossible to discern the prow from the stern. The keel is rockered, and both prow and stern are missing the usual decorative finials (i.e., aplustre and cheniscus). The bulwark is slightly concave. a parallel line running above it might indicate the presence of an upper deck. The central mast is rendered in a thin vertical line. no oars, sail, or rigging are visible.
+                    <lb/>The ship to the bottom is sailing on starboard tack. The keel is slightly rockered, and the stern is slightly raised but without an aplustre, while the prow is not visible due to a lacuna in the plaster. at the stern, the two rudders (πηδάλια) are reduced to two short diagonal lines. The central mast is extremely tall. no sails, rigging, or oars are visible.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

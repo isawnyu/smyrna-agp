@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP100.1.: ship</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">DP100.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-dp100-1</idno>
+                        <msName>Smyrna Agora Basilica DP100.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>on the east face of pier a100, incised. dimensions 22.5 cm wide × 25 cm high.
+                    <lb/>Graffito of a ship sailing on port tack, possibly a liburna, located on the eastern face of pier a100. The graffito is partially damaged by a large gap in the plaster that has destroyed the ship’s stern and the left half of the sail. The ship is characterized by a large central mast, which is cov- ered in a motif of crisscrossing lines identifying the rigging. a set of vertical lines, also meant to represent the rigging as well as the sail’s brailing ropes, departs from the yard and reaches the ship’s deck, defining a large trapezoidal sail. above the yard, a series of diagonal lines departing from the central mast (considerably narrower than the portion visible below the yard and ter- minating in a very stylized καρχήσιον) are part of the κηροῦχοι. The keel is flat, and the prow is slightly rounded. above the gunwale is a lattice motif representing the boat’s sidescreen, sug- gesting that the liburna was of the cataphract type. The prow terminates with a short triangular στόλος with no ἀκροστόλιον above it. from the keel projects an exaggerated ἔμβολος, in the shape of a stylized penis, with a diagonal line on the tip identifying the epithelium, confirming that the vessel has to be interpreted as a navis rostrata.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

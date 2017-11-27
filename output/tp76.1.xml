@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP76.1.: uncertain; penalty clause?</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">TP76.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-tp76-1</idno>
+                        <msName>Smyrna Agora Basilica TP76.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>on the west face. 121 cm from floor, in an area 30 cm wide × 8 cm high. Incised. letters 2 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>ΜΗ̣ [   ̣  ]
+                    <lb/>traces
+                    <lb/>ΠΟΛAΖΗ
+                    <lb/>//ΕΤΕΙΜΗΚΤΤΟΝΠΔΡΙ////ΞΟ/// ATΤIΚΑΙΣ
+                    <lb/>ΠΕΝΤΑΚOΣ[</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>perhaps μή followed by a command now lost, unless it refers to the next line, separated from it by a horizontal rule. Below: can this be πολάζῃ, from πολάζω, cited once in lsJ addenda with the meaning “to be common, abound”? with small incised letters (1 cm high). dimensions 37 cm wide, 18 cm high. above an inscription of 2–3 lines with incised letters are visible. If there is not text lost, one can readily understand Ἀττικαῖς (δραχμαῖς) πεντακοσ[ίαις, 500 attic drachmas (= denarii). at the beginning, probably a form of τιμάω, either (as angelos chaniotis suggests) τετείμηκε, or (as Thomas corsten would prefer) ἐτείμησε, followed by τόν. what follows that escapes us.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

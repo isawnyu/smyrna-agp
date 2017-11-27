@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D1.2.: gladiator</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">D1.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d1-2</idno>
+                        <msName>Smyrna Agora Basilica D1.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>on the east face of pier a11, in black ink. dimensions 18 cm wide × 18 cm high.
+                    <lb/>dipinto of a gladiator located at the eastern face of pier a11, looking into Bay 1. highly sche- matic, it depicts a gladiator seen in profile, advancing to the left. while the head and legs are drawn in profile, the torso is frontal. The man wears a brimmed and crested helmet and pos- sibly a long breastplate. his arms are extended to the sides: he holds in both a short weapon, interpretable either as a sword terminating in a semi-circular blade or as a semi-circular blade attached to a tang or metal shaft, possibly an arbelos. The detail of the weapons suggests that the gladiator can be identified as a διμάχαιρος or even an ἀρβήλαϛ, seldom depicted on funerary stelae or official reliefs. a similar but shorter version of the weapon is visible on the tombstone relief of the gladiator Myron, now at the louvre Museum (inv. Ma 154) and dated to the sec- ond–third century CE. while it is impossible to identify on the smyrna graffito the scaled tunic worn by Myron, the helmet, with its high crest and wide brims, is clearly identical to the one on the tombstone. The louvre relief has no certain provenance, but it has been known since 1806. louis robert, the first to provide a full description of its iconography, interpreted the weapon as a metal cone terminating in a crescent that was meant to be used by a retiarius to attach his net (robert 1940: no. 299, pp. 235–6). The smyrna graffito ultimately disproves his hypothesis. a discussion on the role and the weapons of the arbelas appears in carter 2001: 109–15, esp. 112–3, fig. 2.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

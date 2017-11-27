@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D19.2.: portrait: bust</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">D19.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d19-2</idno>
+                        <msName>Smyrna Agora Basilica D19.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>In the center, left half, of the bay, in red and black ink. dimensions 65 cm wide × 58 cm high.
+                    <lb/>dipinto of a male bust located in the western half of the back wall of Bay 19, toward the center. In red color with hair, mustache, and beard in black. The man is fully frontal: he looks out at the viewer while raising his right arm. The drawing is rather schematic: the short hair, diagonal mustache, and wavy goatee are quite approximate. furthermore, the rather unrealistic render- ing of the nose and eyebrows with two sets of two parallel lines shaped as elongated volutes suggests the unfamiliarity of the author with the depiction of human anatomy or his/her lack of interest in what could be considered as a “realistic” portrait. The eyes with no pupils, in red with black highlights, consist each of two almond-shaped, concentric lines, while the mouth, small and closed, is outlined with two short and wavy streaks. The man is dressed in a cloak fas- tened at his shoulders by two flat and round fibulae. In the right hand he holds a round object, possibly a mappa circensis. The combination of the mappa and the consular cloak suggests that the figure can be interpreted as an official, possibly in the act of starting the gladiatorial games.
+                    <lb/>examples of officials holding the mappa in the context of gladiatorial games are found primar- ily in the consular diptychs, the earliest ones dating to the beginning of the fifth century (see,
+                    <lb/>for example, the diptych of the lampadii ca. 400 CE now at the Museo di santa Giulia, Brescia, or the 417 halberstadt diptych at the halberstadt domschatz). Though in the earliest appear- ances of the mappa in official imagery the cloth seems to identify primarily consuls involved in racing games, later images associate the use of the mappa to a wider variety of officials who are actively invoved in the performance of gladiatorial games and especially venationes, as seems to be the case for this dipinto at smyrna. Good examples of this shift in the iconographic value of the mappa are the images of venationes in the 517 diptych of the consul flavius anastasius probus, which also shows the figure of at least one gladiator, and in the 506 diptych of flavius areobindus dagalaiphus areobindus, both in the louvre Museum.
+                    <lb/>The use of the mappa in depictions of high officials is also well attested in large size statues of proconsuls, like the sixth-century marble statue of stephanos, proconsul of ephesos, found in the street of the curetes and now at the selçuk Museum in ephesos, or the statues of pytheas and palmatus found, respectively, in the bouleuterion and in the west colonnade of the tetra- stoon square at aphrodisias, both dated to the late fifth century. These comparisons, together with some stylistic traits of the smyrna dipinto, seem to suggest a dating of the dipinto to the late fourth–early fifth century CE.
+                    <lb/>Basic information on the ivory diptychs may be found in eastmond 2010 and olovsdotter 2011. for a use of the diptychs also by senators see engemann 2008. on the proconsular statues see smith 1999: 167–9.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

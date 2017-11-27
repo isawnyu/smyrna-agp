@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T25.2.: exclamation</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T25.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t25-2</idno>
+                        <msName>Smyrna Agora Basilica T25.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Just to the left of the lower part of the box of T25.1, 10 cm from the left edge. Just below it is the drawing of a youth’s head (D25.4), presumably the intended “speaker” of the word. detached letters ca. 2–2.5 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>πυγίζομαι
+                    <lb/>ΕΤ̣[   ̣  ̣  ̣  ]ΤΑΣ
+                    <lb/>Ε[   ̣  ̣  ]   ̣ Λ  Λ</ab>
+            </div>
+            <div type="translation">
+                <ab>“I am being buggered.”</ab>
+            </div>
+            <div type="commentary">
+                <ab>lsJ cites for the passive of this verb only SB 4.7452 (published by c. c. edgar, “a love charm from the fayoum,” BSAA 21 (1925) 42 ff.), where poseidonios asks that heronous be bound ὅπως μὴ βεινηθῇ, μὴ πυγισθῇ, μὴ λεικάσῃ, μηδὲν πρὸς ἡδονὴν ποιήσῃ ἄλλῳ ἀνδρί εἰ μὴ ἐμοὶ Ποσιδωνίῳ (lines 9–10): i.e., so that she may not experience vaginal intercourse, anal intercourse, or cunnilingus, nor give any pleasure to any man except him. centered above the large middle gap and largely lost in it, to the right of T25.1. The two partly preserved lines occupy an area ca. 50 cm wide × 25 cm high. large detached cursive-style letters 10–12 cm high.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

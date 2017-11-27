@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T25.5.: label</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T25.5.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t25-5</idno>
+                        <msName>Smyrna Agora Basilica T25.5.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>at the top of the wall, against the right edge of the bay. area ca. 40 cm wide × 10 cm high. Irregular detached letters 4 cm high except rho and high nu, which are 7 cm.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>κοντροκυνή-
+                    <lb/>γις
+                    <lb/>]ΤΟΝ
+                    <lb/>]Ο  ̣  ̣
+                    <lb/>] traces</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>Just below T25.4, at ca. 21 cm from the right side of the bay. The top is ca. 1.5 m above ground level. In a box ca 30 cm wide × 32 cm high. The right side is badly faded. detached majuscule letters 8 cm high. In the upper left quadrant of the bay, in black ink. dimensions 30 cm wide × 44 cm high. dipinto of a male sexual organ, located in the upper left quadrant of the back wall of Bay 25. The graffito has almost completely disappeared into a very large lacuna in the plaster at the center of the wall. only parts of the two testicles are still preserved. Both are drawn in multiple concentric strokes (at least four are identifiable) that overlap all preexisting graffiti (see D25.2, D25.3 and D25.4), suggesting that this image was the last one drawn on the wall. The upper testicle is almost entirely preserved: oval in shape and placed diagonally, it was probably attached to the second one at its missing end. The lower testicle is almost completely missing. what is left suggests that it was probably similar in shape and size to the other one. In the upper left quadrant of the bay, in black ink. dimensions 14 cm wide × 28 cm high. dipinto of a male sexual organ, located in the upper left quadrant of the back wall of Bay 25. The corpus of the penis, pointing downward, is drawn vertically in two lines: the left one is straight, while the right one is convex, creating the overall shape of an elongated drop. The two testicles are attached to each other, and they are placed horizontally on top of the corpus. The one to the left is larger and roughly rhomboidal in shape, while the one to the right is significantly smaller and oval. In the upper left quadrant of the bay, in black ink. dimensions 25 cm wide × 27 cm high. dipinto of a male sexual organ, located in the upper left quadrant of the back wall of Bay 25. The graffito is damaged by the large gap in the plaster that affects most of the wall’s surface. additionally, parts of the outline are illegible due to fading. of the original graffito, the two testicles, placed right below a face in profile (D25.4) are still clearly identifiable. Both are oval in shape: the left one is smaller, while the right one is larger and points downward toward the right. The corpus of the penis, noticeably larger, follows the same orientation, also pointing downward. Its right end is damaged by the loss of plaster. In the upper left quadrant of the bay, in black ink. dimensions 18 cm wide × 23 cm high. dipinto of a male head in profile, located in the upper left quadrant of the back wall of Bay on the left jamb (a37) of the bay, in black ink. dimensions 9 cm wide × 9.5 cm high. dipinto of a male sexual organ, located on the left jamb of the doorway opening in the back wall of Bay 26, at the height of the lintel. only the testicles, both elongated and teardrop-shaped, are still visible. The upper one is almost completely faded. The plaster on the bay’s back wall is generally well preserved, despite a large and roughly horizontal gap that runs through the whole width of the wall, where one course of stone masonry and a small section of an earlier layer of plaster, with no extant graffti or dipinti, are visible. one inscription is in the upper right quadrant of the wall (T27.3), and two inscriptions are in the upper left quadrant (T27.1 and T27.2). These two texts both refer to the eye that decorates one of the two ships dominating the wall’s center (D27.1). one largely damaged and faded dipinto, possibly of a building, is in the wall’s lower register (D27.2).</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

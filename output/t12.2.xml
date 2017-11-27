@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T12.2.: healing inscription</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T12.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t12-2</idno>
+                        <msName>Smyrna Agora Basilica T12.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>four lines. area ca. 80 cm wide × 20 cm high. detached, neat, rounded letters 3–4 cm high. Badly effaced at the right side.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>ἐξαπίνης ΕΥ   ̣  ̣  ̣  ̣  ̣  ̣ ὀφθαλμοῖς   ̣  ̣  ̣        Ε ΑΛΛΑ ΛΕΓ   ̣
+                    <lb/>πολλὰ Λ   ̣  ̣  ̣  ̣
+                    <lb/>̣̣ Η
+                    <lb/>[   ̣  ̣  ̣  ̣  ̣  ̣  ]   ̣  Α
+                    <lb/>[   ̣  ̣  ̣  ̣  ]   ̣  ΕΝΗ
+                    <lb/>[   ̣  ̣  ]Σ̣ΑΠ̣ ΑΤΡΟΣ
+                    <lb/>Ε̣Π̣ Ε̣Θ̣ Η Η
+                    <lb/>traces  | ΤΩ
+                    <lb/>traces  | ΡΑ
+                    <lb/>τω ρα</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>at the top of the surviving portion of the left bevel edge of pier a22; possibly broken at top. area 23 cm wide × 12 cm high, continuing across the bevel to the right in the last two lines to occupy an area of 9 cm square on the bevel. Majuscule letters 3–4 cm high. on the east side of the left pier (a22), facing the bay, about 1.2 m above bench level. to the left of a sketch of a gladiatorial helmet (D12.4). area 9 cm × 9 cm. semicursive, detached letters 4–5 cm high. part of T12.3, apparently; cf. preceding item. This was originally read as ψωλ(ή), but the rho at the start of line 2 is clear.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

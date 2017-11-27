@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D11.1.: ship</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">D11.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d11-1</idno>
+                        <msName>Smyrna Agora Basilica D11.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>In the center, right half, of the bay, in black and red ink. dimensions 73 cm wide × 38.5 cm high. published as Bay 11-t22 in pomey 2006: 330–1, fig. 22.
+                    <lb/>dipinto of the hull of a ship sailing on starboard tack, located in the right half of the back wall of Bay 11, toward the center. while no traces are left of the mast, yard, or sails, the hull is clearly defined by a distinct red line used for the overall outline. The ship’s body is colored in with a pattern of large x-shaped marks that become smaller and closer toward the prow, where they create a checkerboard motif that defines a raised platform. This structure, interpretable as a forecastle formed of crossed spars, must have stretched all the way to the mast, but it is now faded. no oars or oarports are visible, and the keel is flat. above the prow is a zigzag motif in black, not outlined in red like the rest of the dipinto, indicating a later addition or the artist’s afterthought. It can be identified as a stylized στόλος, with the ἀκροστόλιον possibly meant to represent a swan’s neck. The stern is very high and straight, as in some representations of cor- bitae onerariae of the period.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

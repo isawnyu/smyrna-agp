@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>DP81.1.: decorative: rosette</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">DP81.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-dp81-1</idno>
+                        <msName>Smyrna Agora Basilica DP81.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>on the south face of pier a81, incised. diameter 6 cm.
+                    <lb/>Graffito of a rosette, located on the southern face of pier a81, looking into the Basilica’s south- ern corridor. The motif comprises six petals, two of which are incomplete, and the preparatory circle into which the rosette was fitted. considering the precise outline of the circumference, the clearly marked center, and two arcs that defines some of the petals and that extend beyond the outline, it is evident that this is not a freehand graffito, but rather it was made with a tracing tool, such as a compass. see also graffiti DP81.2 and DP32.1.
+                    <lb/>similar rosettes, some incised with the aid of a compass, others not, are common in pompeii, delos, and in the domus tiberiana. for the sake of brevity, I will mention here a few examples from each site (a complete catalogue can be found in langner 2001).  similar to the rosette in smyrna is the graffito on one of the columns of the “Grande palestra” (Maulucci vivolo 1993: 64–5). even closer in shape and technical execution are the rosette on one of the walls of the caserma dei Gladiatori and those on the external wall of the casa dei cei: Maulucci vivolo</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

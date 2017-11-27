@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP96.2.: greetings</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">TP96.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-tp96-2</idno>
+                        <msName>Smyrna Agora Basilica TP96.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>on the south face, on the right side of the surviving plaster. area 7 cm wide × 13 cm high. well- made, even stylish, small minuscule incised letters 1 cm high, mostly detached. along with other remains is the following.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>ἐλάινος
+                    <lb/>ὁ πᾶσι φί
+                    <lb break="no"/>λητος ἐλάινε χαίροις πολλὰ̣ ἀγαθώτατε</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>The first three lines may be rendered “olive tree, dear to all,” while the last three lines can be taken as “fare well for a long time, good sir.” But to find ἐλάινε in the vocative in line 4 is surprising. That suggests a personal name; such a name is listed by LGPN 3a.139 from CIL 4.597 (pompeii) and 5B.132 from Miletos and perge. It seems likely that a word-play on the identity is intended; if so, one could render the entire graffito as “The olive tree is dear to all; Mr. olive, fare well for a long time, good sir.”</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

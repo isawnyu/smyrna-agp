@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TP84.7.: signature</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">TP84.7.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-tp84-7</idno>
+                        <msName>Smyrna Agora Basilica TP84.7.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>on the east face of the pier. Incised. 120 cm from floor; to its right are some additional strokes. letters 3–5 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>Ἡρακλείδης</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>The name herakleides is as common in coastal asia Minor as it is elsewhere in the Greek world; numerous examples from smyrna are listed in LGPN 5a.201. on the west face of pier a84, in black ink. dimensions 49 cm wide × 82 cm high. damaged and faded dipinto of a heron, located on the western face of pier a84. The bird, in profile and turned to the left, is drawn with evident attention for anatomical detailing and realistic proportions. It has extremely elongated and thin legs (the right one mostly faded), which are rendered in thick curved lines terminating in tripartite claws. The bird’s neck and head have almost completely disappeared, as has the bird’s rear. clearly visible are the breast and the back, decorated with a carefully drawn motif of leaf-shaped feathers, each finished by short internal streaks. The head is missing. on the east face of pier a84, in black ink and incised. dimensions as preserved 66 cm wide × 47 cm high. painted and incised graffito of a ship, located on the eastern face of pier a84, at the vault spring. partially damaged by lacunae, it depicts a medium-sized commercial vessel with a combination of painted (mostly the ship’s sail) and incised (the ship’s hull and rows) details. The ship, sailing on port tack, has a large trapezoidal sail defined by a series crisscrossing lines, most probably meant to indicate the brailing ropes as well as the ropes that connect the sail to the mast and the ship’s sides. The mast is not recognizable, but the long yard (κέρας) is clearly visible. The keel is flat and the stern rounded, while the prow, possibly oblique, is damaged by a large lacuna. at the stern one of the two πηδάλια, characterized by a large triangular blade, is visible. on the south face of pier a84, incised. dimensions at upper left 11 cm wide × 21 cm high; at lower side, 15 cm wide × 15 cm high. two graffiti of stylized flowers, located at the southern face of pier a84, immediately below the arch’s spring and at the beginning of the spring, looking into the Basilica’s southern corridor. The two geometric motifs have similar shapes but different dimensions. The upper half of each motif is characterized by a large rhombus divided in half by a straight vertical line running exactly in the middle. The line continues downward connecting the upper half of the drawing with the lower one. two of the rhombi are further decorated at their center with two teardropshaped details. The lower halves are characterized by two oblique rectangles placed symmetrically along the central vertical line. They are possibly the indication of the flowers’ leaves. during the 2014 survey it has been ascertained that the lower flower has been damaged by the detachment of a portion of the plaster, so that the leaves are no longer extant. on the south face of pier a84, incised. dimensions 6.5 cm wide × 2 cm high. very schematic graffito of a ship, located on the southern face of pier a84, looking into the Basilica’s southern corridor. The keel is rockered, while the bulwark is flat. Though there is no clear distinction between the prow and the stern, both missing their finials (i.e., aplustre and cheniscus), the ship is probably sailing on port tack. There are four rectangular sails, suggesting that the vessel might have two masts, each decorated with a cross. two diagonal lines reaching down from the yard to the boat’s extremities are probably indications of the πρότονοι. no oars are visible.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

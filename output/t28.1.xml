@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T28.1.: riddle</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T28.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t28-1</idno>
+                        <msName>Smyrna Agora Basilica T28.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>about 1.50 m above ground level and 10 cm from the left edge of the bay. area ca 40 cm wide
+                    <lb/>× 30 cm high, in box. detached capital letters 4–5 cm high. Bibliography: Bagnall, Everyday Writing, p. 19; SEG 61.964.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>ζήτημα Εἴσιδι αδι αδι διασω
+                    <lb break="no"/>θείς αδι α-
+                    <lb/>δ[ι’] <Ἰσ>ίδωρ̣ος̣
+                    <lb/>traces ΕΝ
+                    <lb/>ΑΜ   ̣  ̣  ̣  ̣  ̣ ΠΕΙΠ   ̣  ̣</ab>
+            </div>
+            <div type="translation">
+                <ab>“riddle: to Isis (adi adi), having been saved (adi adi), Isidoros . . .”</ab>
+            </div>
+            <div type="commentary">
+                <ab>ca. 1.0 m from the left, ca. 1.05 m from the ground. width uncertain, height ca. 3 cm. small letters of minuscule style but largely detached, 1 cm high.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

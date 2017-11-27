@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>D27.1.: ships</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">D27.1.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-d27-1</idno>
+                        <msName>Smyrna Agora Basilica D27.1.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                    <lb/>In the center of the bay, in black ink. upper dimensions 89 to 104 cm wide × 56 cm high; lower dimensions 100 cm wide × 26 cm high.
+                    <lb/>dipinto of two superimposed ships, located at the center of the back wall of Bay 27. The two vessels have similar shapes and sizes. The lower vessel seems to have been drawn after the upper one. The two ships, drawn as sailing on starboard tack, have flat keels, rounded prows, and sharply diagonal sterns. They are both medium to small vessels for transport of passengers or goods (i.e., phaseli).
+                    <lb/>The upper vessel was drawn in at least two phases. In the first one the aplustre was notably lon- ger, similar in shape to the later, and shorter, one. a faded line near this element suggests that the original sails extended to this point. a large and straight mast at the center of the bulwark, belonging to the second phase, has now almost completely disappeared, along with the lines of the cordage, mostly καλῴδια and one πρότονος, which are very faded. a large eye visible right above the bulwark of the upper ship is to be intended as decoration of the sail. In this sec- ond phase the aplustre and στόλος became identical in shape, both depicted as short inverted triangles.
+                    <lb/>This first ship seems to relate to the text T27.1.
+                    <lb/>The lower and later vessel’s stern is not completely preserved, while at the prow is recognizable a rounded στόλος pointing inward. no mast, yard, sails or oars are identifiable for this second ship.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab></ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab></ab>
+            </div>
+        </body>
+    </text>
+</TEI>

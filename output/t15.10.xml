@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T15.10.: uncertain</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T15.10.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t15-10</idno>
+                        <msName>Smyrna Agora Basilica T15.10.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>on the face of the pier at left (a25), at the top of the surviving plaster; overall dimensions 32 cm high × 30 cm wide; broken at top. ungainly majuscule letters 5–6 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>
+                    <lb break="no"/> 
+                    <lb break="no"/> 
+                    <lb break="no"/> 
+                    <lb break="no"/> 
+                    <lb break="no"/> -
+                    <lb/>̣ [   ̣ ]  ΠΟΤ̣ΑΙ
+                    <lb/>ΙΔΕΙΝ
+                    <lb/>ΔΕΣΟΥ   ̣
+                    <lb/>̣  ̣  ̣  ̣  ̣ Ν̣</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>There are also 2–3 lines of letters about 2.5 cm high on the beveled edge of this pier, none of which has been read. In line 1, cf. perhaps the unexplained ΚΑΤΑΠΟΤΑ in T13.3. There does not appear to be anything missing at left, where the pier would have allowed another letter or two. The end of line 1 is faint and squeezed in. It is tempting to interpret lines 2–3 as ἰδεῖν δὲ σοῦ, but further context is elusive. In the upper register of the bay, in black ink. dimensions 50 cm wide × 24 cm high. The ships in this bay have been previously published as Bay 15-t26 a, B, c in pomey 2006: 334–5, figs. 25–27. dipinto of a ship sailing on starboard tack, located on the back wall of Bay 15, in the upper register. Most of the coloring has faded. only the pointed stern and part of the keel are visible, both rendered in a very thick black line. from the few elements still extant, the elongated vessel seems to have a flat keel, and it can be probably be interpreted as a compact galley, though the interpretation is uncertain. In the center, right half, of the bay, in black ink. dimensions 75 cm wide × 25 cm high. The ships in this bay have been previously published as Bay 15-t26 a, B, c in pomey 2006: 334–5, figs. 25–27. dipinto of a ship, sailing on port tack, without any indications of mast, yard, sails, or oars. a thick black streakoutlines a flatkeel, arounded stern, andasharply oblique prow. neither the ἄφλαστον nor the στόλος is clearly defined. on the hull, a second line runs parallel to the gunwale. It can be identified as the upper part of the bulwark, suggesting the presence of a deck that extends to the end of the stern, where four short lines define a very schematic aplustre. from the side of the stern, a triangular element tied to the ship by a rope is identified by pomey as a stone anchor. very faded traces of an earlier dipinto are visible below and around this ship: the extant lines suggest that it could have depicted a larger ship largely obliterated by the later, and smaller, vessel. The overall shape of the vessel is comparable to a similar one on a gravestone, said to come from ankara, dated to the second century CE. see pfuhl and Möbius 1977: vol. 2, no. 1184, p. 291. In the center of the bay, in black ink. dimensions 108 cm wide × 84 cm high. The ships in this bay have been previously published as Bay 15-t26 a, B, c in pomey  2006: 334–5, figs. 25–27. dipinto of a ship, located at the center of the back wall of Bay 15. The ship is sailing on port tack and is possibly a merchant vessel. The large and irregular mast is slightly off center toward the prow. The upper part of the graffito is largely faded: some lines near the mast could suggest the presence of a sail and the yard, but the streaks are too fragmentary for a conclusive interpretation. at the stern is visible one πηδάλιον partially submerged in the water. no other oars are drawn on the ship’s hull. The bulwark is decorated with a lattice motif, possibly indicating a parapet or sidescreen, suggesting the ship was of the cataphract or semi-cataphract type. above it, a line indicates a deck that extends all the way to the stern, where the elevated seat for the helmsman is found. a line running along the hull, toward the middle of it, indicates the ship’s waterway. The area of the prow is mostly faded; the stern is rounded and terminates in an oblique ἄφλαστον that projects outside the ship. on the west face of pier a26, in black ink. dimensions 25 cm wide × 24.5 cm high. The ships in this bay have been previously published as Bay 15-t26 a, B, c in pomey 2006: 334–5, figs. 25–27. dipinto of a ship, located on the west face of pier a26, looking into Bay 15. The vessel, possibly a navis actuaria sailing on port tack, has a flat keel, a concave stern, and a rounded prow. at the stern, a short and projecting aplustre is rendered in a thick line. Below it, a row of at least six oars is visible, all drawn as parallel diagonal lines, each terminating in a small circle. The prow seems to have a long στόλος, but this area of the graffito is too damaged to distinguish any elements of it. The ship has a single mast, placed roughly in the center and drawn with two parallel and slightly diagonal lines. The mast terminates at the yard, which extends for the whole width of the ship. Both the ropes securing the yard to the ship (ὑπέραι) and the mast to the hull (καλῴδια) are clearly indicated. The sail is not immediately visible; the artist probably imagined it as rolled up by the yard. The image of a vessel with similar hull and prow is visible on a gravestone from cyzicus, dated to the first century BCE, attesting to the longevity of the iconography as well as to the longevity of the actual ship type: pfuhl and Möbius 1977: vol. 2, no. 1187, p. 292.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>

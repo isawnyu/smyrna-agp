@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>T14.2.: signature</title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>Drafting working materials by Institute for the Study of the Ancient World. Not
+                    ready for publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>R.S. Bagnall</author>, 
+                    <author>R. Casagrande-Kim</author>, 
+                    <author>A. Ersoy</author>, 
+                    <author>C. Tanriver</author> and 
+                    <author>B. Yolaçan</author>, 
+                    <title level="m">Graffiti from the Basilica in the Agora of Smyrna</title> 
+                    (<pubPlace>New York</pubPlace>
+                    <date>2016</date>), 
+                    <biblScope unit="item">T14.2.</biblScope>.</bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Turkey</country>
+                        <settlement>Izmir</settlement>
+                        <geogName>Basilica of the Agora of Smyrna</geogName>
+                        <idno>smyrna-agora-basilica-t14-2</idno>
+                        <msName>Smyrna Agora Basilica T14.2.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>about 10 cm below T14.1 and just to the right. area 40 × 3 cm. detached majuscule letters 5 cm high.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+                    <lb/>Δι̣ο̣γένης
+                    <lb/>ὀ̣φ̣θ̣αλμούς Α   ̣  ̣ Ε
+                    <lb/>̣  ̣  ̣  ̣  ̣ ισα</ab>
+            </div>
+            <div type="translation">
+                <ab></ab>
+            </div>
+            <div type="commentary">
+                <ab>reported as probably an example of Θεαγένης (cf. t12.5) in Bagnall, Everyday Writing. The delta is certain, even if the two following letters are extremely uncertain. about 55 cm below T14.2, 3 lines of uneven size, with detached majuscule letters ranging from In the lower left quadrant of the bay, in black ink. dimensions 44 cm wide × 48 cm high. published as Bay 14-t25 in pomey 2006: 333, fig. 24. dipinto of a cargo vessel, located in the lower left quadrant of the back wall of Bay 14. The ship, possibly a medium sized oneraria sailing on port tack, is depicted as in full sail. at the ship’s center a tall and slightly oblique mast (ἱστός) sits on a raised deck, covered in a dense net of rigging. toward its top, the yard (κέρας) is rendered with a single thick oblique line. The large sail (ἱστίον) is shown as billowed by a tail wind that propels the vessel forward. The sail is defined by a net of crisscrossing lines that delineate the rigging and the brailing ropes. also visible is the system of ropes (generally known as τοπεῖα) that connect the yard to the mast, the yard to the stern, and the mast to the stern. The keel of the ship is quite flat at the bottom and rockers toward the stern and the prow. The prow is higher than the stern and terminates with a short and projecting στόλος rounded at the top. The stern is quite low and straight with no signs of the helmsman’s seat. one line running along the entire hull, roughly in the middle of it, can be interpreted as the indication of the ship’s waterway. no oars, oar posts, or rudders are visible.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>
